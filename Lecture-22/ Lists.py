@@ -26,8 +26,8 @@ marks = [33, 44, 55, 66, 77, 88, 99, 00]
 
 # List Comprehension
 # lst = [i*i for i in range(5)]
-lst = [i for i in range(5)]
-print(lst)
+# lst = [i for i in range(5)]
+# print(lst)
 
 lst = [i for i in range(5) if i%2 == 0]
 print(lst)
